@@ -1,1 +1,1 @@
-The first file tittled wine quality predictions we use support vector machine and knn to determine where a new datapoint should be placed given its measured variables and we 
+The first file tittled wine quality predictions we use support vector machine and knn to determine where a new datapoint should be placed given its measured variables and we found that we could accuratly predict the wines quality with these machine learning techniques with about 87% accuarcy. 
